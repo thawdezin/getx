@@ -1,4 +1,5 @@
 # GetX pattern folder structure
+```
 my_flutter_app/
   |- lib/
   |  |- modules/
@@ -35,4 +36,4 @@ my_flutter_app/
   |- test/
   |- pubspec.yaml
   |- README.md
-
+```
